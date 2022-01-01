@@ -10,7 +10,7 @@
 mkdir wjproject_docker
 ```
 
-![](D:\henggao2021\IMG\微信截图_20210704155555.png)
+![](IMG\微信截图_20210704155555.png)
 
 ## 2. 创建Docker compose
 
@@ -20,7 +20,7 @@ mkdir wjproject_docker
   mkdir compose
   ```
 
-  ![](D:\henggao2021\IMG\微信截图_20210704171840.png)
+  ![](IMG\微信截图_20210704171840.png)
 
 ## 3.项目开发
 
@@ -34,7 +34,7 @@ mkdir wjproject_docker
   touch Dockerfile
   ```
 
-  ![](D:\henggao2021\IMG\微信截图_20210704173022.png)
+  ![](IMG\微信截图_20210704173022.png)
 
 - 基础镜像
 
